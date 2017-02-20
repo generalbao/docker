@@ -1,0 +1,9 @@
+2017年2月20日18:10:04
+
+http://edu.51cto.com/course/course_id-4238.html
+
+docker search xxx   搜索镜像 比如  docker search centos
+
+docker run xxxx              docker run hello-world 运行
+docker ps -a      查看已经安装的镜像
+docker images 显示所有镜像
